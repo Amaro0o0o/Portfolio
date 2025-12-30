@@ -500,11 +500,12 @@
               class="p-6 mb-12 transition-all shadow-2xl md:p-10 bg-gradient-to-br from-blue-50 to-indigo-50 rounded-3xl hover:shadow-3xl"
             >
               <div class="grid gap-8 lg:grid-cols-2">
-                <div class="relative overflow-hidden rounded-2xl">
+                <div class="relative overflow-hidden rounded-2xl h-full">
                   <iframe
-                    src="https://drive.google.com/file/d/1ldogbPTdza7-pPSj3VL7UbMESTYtWP5w/preview"
+                    src="https://www.youtube.com/embed/13-a70JnyYc"
                     class="w-full h-full border-0 rounded-2xl"
                     allow="autoplay"
+                    allowFullScreen
                   ></iframe>
                 </div>
 
