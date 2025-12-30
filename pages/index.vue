@@ -502,7 +502,7 @@
               <div class="grid gap-8 lg:grid-cols-2">
                 <div class="relative overflow-hidden rounded-2xl">
                   <iframe
-                    src="https://drive.google.com/file/d/1ldogbPTdza7-pPSj3VL7UbMESTYtWP5w/preview"
+                    src="https://youtu.be/13-a70JnyYc?si=g2hKvufzzu_GJgc9"
                     class="w-full h-full border-0 rounded-2xl"
                     allow="autoplay"
                   ></iframe>
