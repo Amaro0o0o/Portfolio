@@ -1,4 +1,4 @@
-<template>
+```<template>
   <div class="min-h-screen">
     <!-- Navigation -->
     <div class="mx-4 md:px-0">
@@ -500,14 +500,14 @@
               class="p-6 mb-12 transition-all shadow-2xl md:p-10 bg-gradient-to-br from-blue-50 to-indigo-50 rounded-3xl hover:shadow-3xl"
             >
               <div class="grid gap-8 lg:grid-cols-2">
-                <div class="relative overflow-hidden rounded-2xl">
+                <div class="relative overflow-hidden rounded-2xl h-full">
                   <iframe
                     src="https://www.youtube.com/embed/13-a70JnyYc"
                     class="w-full h-full border-0 rounded-2xl"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen
+                    allow="autoplay"
+                    allowFullScreen
                   ></iframe>
-
+                </div>
 
                 <div>
                   <h3 class="mb-2 text-3xl font-black">Drone AI System</h3>
@@ -1174,3 +1174,4 @@ useHead({
   ],
 });
 </script>
+```
