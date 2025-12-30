@@ -1,4 +1,4 @@
-```<template>
+<template>
   <div class="min-h-screen">
     <!-- Navigation -->
     <div class="mx-4 md:px-0">
@@ -1174,4 +1174,3 @@ useHead({
   ],
 });
 </script>
-```
