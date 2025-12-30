@@ -502,11 +502,12 @@
               <div class="grid gap-8 lg:grid-cols-2">
                 <div class="relative overflow-hidden rounded-2xl">
                   <iframe
-                    src="https://youtu.be/13-a70JnyYc?si=g2hKvufzzu_GJgc9"
+                    src="https://www.youtube.com/embed/13-a70JnyYc"
                     class="w-full h-full border-0 rounded-2xl"
-                    allow="autoplay"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen
                   ></iframe>
-                </div>
+
 
                 <div>
                   <h3 class="mb-2 text-3xl font-black">Drone AI System</h3>
